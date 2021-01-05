@@ -1,0 +1,12 @@
+#box1 {
+  width: 900px;
+  height: 900px;
+  background-color: pink;
+  background-image: url(../830bf3c820.jpg);
+  background-repeat: no-repeat;
+}
+#box2 {
+  width: 200px;
+  height: 200px;
+  background-color: deeppink;
+}

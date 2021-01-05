@@ -1,0 +1,7 @@
+#box1 {
+  width: 900px;
+  height: 900px;
+  background-color: pink;
+  background-image: url('../img/angular.jpg');
+  background-repeat: no-repeat;
+}
